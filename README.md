@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DEMO URL
+
+You can see a demo of the project in https://localhostbit.github.io/BreakingBad-Reactjs/
+
 
 ## Available Scripts
 
